@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "195195427190",
+    "firebase_url": "https://safetynet-369520-default-rtdb.firebaseio.com",
+    "project_id": "safetynet-369520",
+    "storage_bucket": "safetynet-369520.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195195427190:android:288f9d495904c0545d4257",
+        "android_client_info": {
+          "package_name": "com.tmc.safetynet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195195427190-pgck5tuu72i16bagdcnoatot7gnasrnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRkkK8LE56S-ocQhunjOa9iEwrZmW0XNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195195427190-pgck5tuu72i16bagdcnoatot7gnasrnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
